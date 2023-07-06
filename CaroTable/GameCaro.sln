@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameCaro", "GameCaro\GameCaro.csproj", "{E8D56A0A-3474-45DC-9B1F-85B98719E3D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaroTable", "CaroTable\CaroTable.csproj", "{B2BBF0E1-7CB4-4570-98E3-671167534814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8D56A0A-3474-45DC-9B1F-85B98719E3D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D56A0A-3474-45DC-9B1F-85B98719E3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D56A0A-3474-45DC-9B1F-85B98719E3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D56A0A-3474-45DC-9B1F-85B98719E3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2BBF0E1-7CB4-4570-98E3-671167534814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BBF0E1-7CB4-4570-98E3-671167534814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BBF0E1-7CB4-4570-98E3-671167534814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BBF0E1-7CB4-4570-98E3-671167534814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A9DA8C3-6EDF-4EA2-AC60-C66FA9446481}
+	EndGlobalSection
+EndGlobal
